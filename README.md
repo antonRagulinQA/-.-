@@ -74,7 +74,7 @@
 5. Figma
 6. YouTrack by Jet brains
 
-## Итог работы Спринт 1
+## Итог работы : Спринт 1
 <details>
 <summary> 1-спринт </summary>
 	

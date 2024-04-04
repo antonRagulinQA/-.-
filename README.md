@@ -79,7 +79,7 @@
 <summary> 1-спринт </summary>
 	
 1. [Ссылка на MindMap](https://drive.google.com/file/d/1NWauAnw-2JvuCfKJRaeOridsMse8LYwx/view?usp=sharing)
-2. [Ссылка на Гугл-Таблицу](https://drive.google.com/file/d/1Z7Pf8t70VgdQkUrrFnn8M0w2W2XbZjKz/view?usp=drive_link)
+2. [Ссылка на Гугл-Таблицу](https://docs.google.com/spreadsheets/d/1_VbRi0u271AwQ9W-Gf7oa39RLUeO5R4sIVv9FEp1sJc/edit?usp=sharing)
 
 - В таблице применяются техники тест-дизайна: Выделение классов эквивалентности, поиск граничных значений. Также мной были спроектированы тест-кейсы на корректность логики расчёта времени и стоимости поездки.
    
